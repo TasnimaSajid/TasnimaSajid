@@ -64,6 +64,6 @@ I'm **Tasnima Sajid** — a Computer Science student at Air University who build
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A3323?style=for-the-badge&logo=linkedin&logoColor=D3968C)](https://www.linkedin.com/in/tasnima-sajid-b37563421/)
 [![Email](https://img.shields.io/badge/Email-0A3323?style=for-the-badge&logo=gmail&logoColor=D3968C)](mailto:tasnimasajid05@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A3323?style=for-the-badge&logo=googlechrome&logoColor=D3968C)].(https://tasnimasajid.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A3323?style=for-the-badge&logo=googlechrome&logoColor=D3968C)](https://tasnimasajid.netlify.app/).
 
 <sub>Islamabad, Pakistan · Developer & AI Creative</sub>
