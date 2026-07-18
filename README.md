@@ -1,6 +1,6 @@
 <div align="center">
 
-![Tasnima Sajid — Software Developer & AI Creative](assets/banner.png)
+![Tasnima Sajid — Software Developer & AI Creative](banner.png)
 
 </div>
 
