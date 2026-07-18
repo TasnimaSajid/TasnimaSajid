@@ -60,17 +60,6 @@ I'm **Tasnima Sajid** — a Computer Science student at Air University who build
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-
-![Tasnima's GitHub stats](https://github-readme-stats.vercel.app/api?username=TasnimaSajid&show_icons=true&hide_border=true&bg_color=0A3323&title_color=D3968C&text_color=F7F4D5&icon_color=839958)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TasnimaSajid&layout=compact&hide_border=true&bg_color=0A3323&title_color=D3968C&text_color=F7F4D5)
-
-</div>
-
----
-
 ### 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A3323?style=for-the-badge&logo=linkedin&logoColor=D3968C)](https://www.linkedin.com/in/tasnima-sajid-b37563421/)
